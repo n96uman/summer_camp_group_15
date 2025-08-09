@@ -1,3 +1,4 @@
+## Web Attack Detection IDS
 
 Description:  
 This project is a lightweight, Python-based Intrusion Detection System (IDS) built from scratch to detect common web application attacks.  
