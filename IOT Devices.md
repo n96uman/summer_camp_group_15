@@ -39,6 +39,10 @@
 4. 6LOWNPAN
 5. IEEE 802.15.4 MAC
 6. IEEE 802.15.4 PHY
+### CoAp(constrained Application protocols)
+- does not stablish end to end connection.
+- DTLS handshake.
+
 #### MQTT(MQ Telemetry Transport) protocols
 - publish and Subscribe work with low cost and low bandwidth though unstable protocols.
 1. Send command to control an output
