@@ -77,6 +77,8 @@ def cleanup_frag():
 # ---------- Packet callback ----------
 def pkt_cb(pkt):
     now = time.time()
+    if IP in pkt:
+        if not ( pkt[IP].src == "IOT_goat_IP" or pkt[IP].dst=="IOT_goat_IP")
     # --- TCP stealth detection ---
     if IP in pkt and TCP in pkt:
         ip = pkt[IP].src
@@ -154,5 +156,5 @@ def main():
     # sniff everything; change filter if desired, e.g. "udp port 53 or arp"
     sniff(prn=pkt_cb, store=0)
 
-if name == 'main':
+if __name__ == '__main__':
     main()
