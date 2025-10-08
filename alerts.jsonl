@@ -1,0 +1,40 @@
+{"src": "127.0.0.1", "alert": "PORT SCAN", "severity": "Medium", "details": "connected to 718 different ports", "evidence": 1483, "time": 1759766575.4743953}
+{"src": "127.0.0.1", "alert": "FLOOD", "severity": "HIGH", "details": "sent 1473 number of pakets", "evidence": 1483}
+{"src": "127.0.0.1", "alert": " SYN FLOOD", "severity": "HIGH", "details": "sent 914 numbers of SYN pakets", "evidence": 1483}
+{"src": "127.0.0.1", "alert": "PORT SCAN", "severity": "Medium", "details": "connected to 718 different ports", "evidence": 1483, "time": 1759766616.8691986}
+{"src": "127.0.0.1", "alert": "FLOOD", "severity": "HIGH", "details": "sent 1473 number of pakets", "evidence": 1483}
+{"src": "127.0.0.1", "alert": " SYN FLOOD", "severity": "HIGH", "details": "sent 914 numbers of SYN pakets", "evidence": 1483}
+{"src": "10.46.25.40", "alart": "LARGE_PKT", "severity": "Low", "details": "avg size 4017.1", "evidence": 68}
+{"src": "127.0.0.1", "alert": "PORT SCAN", "severity": "Medium", "details": "connected to 718 different ports", "evidence": 1483, "time": 1759769388.6566978}
+{"src": "127.0.0.1", "alert": "FLOOD", "severity": "HIGH", "details": "sent 1473 number of pakets", "evidence": 1483}
+{"src": "127.0.0.1", "alert": " SYN FLOOD", "severity": "HIGH", "details": "sent 914 numbers of SYN pakets", "evidence": 1483}
+{"src": "10.46.25.40", "alart": "LARGE_PKT", "severity": "Low", "details": "avg size 4017.1", "evidence": 68}
+{"src": "127.0.0.1", "alert": "PORT SCAN", "severity": "Medium", "details": "connected to 718 different ports", "evidence": 1483, "time": 1759769430.7321384}
+{"src": "127.0.0.1", "alert": "FLOOD", "severity": "HIGH", "details": "sent 1473 number of pakets", "evidence": 1483}
+{"src": "127.0.0.1", "alert": " SYN FLOOD", "severity": "HIGH", "details": "sent 914 numbers of SYN pakets", "evidence": 1483}
+{"src": "10.46.25.40", "alart": "LARGE_PKT", "severity": "Low", "details": "avg size 4017.1", "evidence": 68}
+{"src": "127.0.0.1", "alert": "PORT SCAN", "severity": "Medium", "details": "connected to 718 different ports", "evidence": 1483, "time": 1759769471.9869664}
+{"src": "127.0.0.1", "alert": "FLOOD", "severity": "HIGH", "details": "sent 1473 number of pakets", "evidence": 1483}
+{"src": "127.0.0.1", "alert": " SYN FLOOD", "severity": "HIGH", "details": "sent 914 numbers of SYN pakets", "evidence": 1483}
+{"src": "10.46.25.40", "alart": "LARGE_PKT", "severity": "Low", "details": "avg size 4017.1", "evidence": 68}
+{"src": "127.0.0.1", "alert": "PORT SCAN", "severity": "Medium", "details": "connected to 718 different ports", "evidence": 1483, "time": 1759769712.1190453}
+{"src": "127.0.0.1", "alert": "FLOOD", "severity": "HIGH", "details": "sent 1473 number of pakets", "evidence": 1483}
+{"src": "127.0.0.1", "alert": " SYN FLOOD", "severity": "HIGH", "details": "sent 914 numbers of SYN pakets", "evidence": 1483}
+{"src": "10.46.25.40", "alart": "LARGE_PKT", "severity": "Low", "details": "avg size 4017.1", "evidence": 68}
+{"src": "127.0.0.1", "alert": "PORT SCAN", "severity": "Medium", "details": "connected to 718 different ports", "evidence": 1483, "time": 1759770108.4071646}
+{"src": "127.0.0.1", "alert": "FLOOD", "severity": "HIGH", "details": "sent 1473 number of pakets", "evidence": 1483}
+{"src": "127.0.0.1", "alert": " SYN FLOOD", "severity": "HIGH", "details": "sent 914 numbers of SYN pakets", "evidence": 1483}
+{"src": "10.46.25.40", "alart": "LARGE_PKT", "severity": "Low", "details": "avg size 4017.1", "evidence": 68}
+{"src": "10.46.25.40", "alart": "LARGE_PKT", "severity": "Low", "details": "avg size 3401.5", "evidence": 97}
+{"src": "127.0.0.1", "alert": "PORT SCAN", "severity": "Medium", "details": "connected to 718 different ports", "evidence": 1483, "time": 1759853752.745741}
+{"src": "127.0.0.1", "alert": "FLOOD", "severity": "HIGH", "details": "sent 1473 number of pakets", "evidence": 1483}
+{"src": "127.0.0.1", "alert": " SYN FLOOD", "severity": "HIGH", "details": "sent 914 numbers of SYN pakets", "evidence": 1483}
+{"src": "10.46.25.40", "alart": "LARGE_PKT", "severity": "Low", "details": "avg size 4017.1", "evidence": 68}
+{"src": "10.46.25.40", "alart": "LARGE_PKT", "severity": "Low", "details": "avg size 3401.5", "evidence": 97}
+{"src": "10.46.25.40", "alart": "LARGE_PKT", "severity": "Low", "details": "avg size 4784.1", "evidence": 54}
+{"src": "127.0.0.1", "alert": "PORT SCAN", "severity": "Medium", "details": "connected to 718 different ports", "evidence": 1483, "time": 1759853794.082795}
+{"src": "127.0.0.1", "alert": "FLOOD", "severity": "HIGH", "details": "sent 1473 number of pakets", "evidence": 1483}
+{"src": "127.0.0.1", "alert": " SYN FLOOD", "severity": "HIGH", "details": "sent 914 numbers of SYN pakets", "evidence": 1483}
+{"src": "10.46.25.40", "alart": "LARGE_PKT", "severity": "Low", "details": "avg size 4017.1", "evidence": 68}
+{"src": "10.46.25.40", "alart": "LARGE_PKT", "severity": "Low", "details": "avg size 3401.5", "evidence": 97}
+{"src": "10.46.25.40", "alart": "LARGE_PKT", "severity": "Low", "details": "avg size 4784.1", "evidence": 54}
